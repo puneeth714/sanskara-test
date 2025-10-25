@@ -1,0 +1,8 @@
+{
+  "name": "SanskaraAI",
+  "description": "Your tradition, your love story, orchestrated. SanskaraAI is an empathetic, intelligent, and culturally aware virtual wedding planner (Sarathi) that proactively guides, mediates, and orchestrates, ensuring the journey to the wedding day is joyous.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
